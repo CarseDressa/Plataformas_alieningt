@@ -5,3 +5,4 @@ build/
 local.properties
 *.iml
 gradle/gradle-daemon-jvm.properties
+apk/
